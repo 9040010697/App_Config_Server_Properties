@@ -1,6 +1,6 @@
 spring:
   application:
-    name: SpringProfileExample_Dev
+    name: SpringProfileExample_Dev_git
 
 server:
   port: 8085
