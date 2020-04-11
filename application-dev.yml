@@ -3,4 +3,4 @@ spring:
     name: SpringProfileExample_Dev_git
 
 server:
-  port: 8085
+  port: 8086
